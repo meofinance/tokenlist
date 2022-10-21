@@ -1,10 +1,10 @@
 {
   "name": "MEO Tokens List",
-  "timestamp": "2022-10-21T11:38:40.166Z",
+  "timestamp": "2022-10-21T12:39:30.331Z",
   "version": {
     "major": 1,
-    "minor": 0,
-    "patch": 14
+    "minor": 1,
+    "patch": 1
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/mar-256.png",
