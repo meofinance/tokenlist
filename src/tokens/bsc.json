@@ -1,5 +1,13 @@
 [
   {
+    "name": "MEO",
+    "symbol": "MEO",
+    "address": "0x9fAE30516Ebe02Bb4C472b91848C7D9887f28494",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meo.png"
+  },
+  {
     "name": "Bakery Token",
     "symbol": "BAKE",
     "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",

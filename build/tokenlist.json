@@ -1,10 +1,10 @@
 {
   "name": "MEO Tokens List",
-  "timestamp": "2022-10-22T09:06:46.403Z",
+  "timestamp": "2022-10-22T10:46:48.973Z",
   "version": {
     "major": 1,
     "minor": 1,
-    "patch": 2
+    "patch": 3
   },
   "tags": {},
   "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meo.png",
@@ -452,6 +452,14 @@
       "chainId": 56,
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/11335/small/2020-05-19-token-200.png?1589940590"
+    },
+    {
+      "name": "MEO",
+      "symbol": "MEO",
+      "address": "0x9fAE30516Ebe02Bb4C472b91848C7D9887f28494",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meo.png"
     },
     {
       "name": "METAVERSE Thailand",
@@ -916,6 +924,14 @@
       "chainId": 10001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meoc.png"
+    },
+    {
+      "name": "MEO",
+      "symbol": "MEO",
+      "address": "0x4a3747eC54E0F34C23b0b543262B1A902058A41f",
+      "chainId": 42170,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meo.png"
     },
     {
       "name": "MEO A",

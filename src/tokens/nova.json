@@ -22,5 +22,13 @@
     "chainId": 42170,
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meoc.png"
+  },
+  {
+    "name": "MEO",
+    "symbol": "MEO",
+    "address": "0x4a3747eC54E0F34C23b0b543262B1A902058A41f",
+    "chainId": 42170,
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meo.png"
   }  
 ]
