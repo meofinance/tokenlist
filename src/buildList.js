@@ -25,6 +25,8 @@ const arbitrum = require("./tokens/arbitrum.json");
 const xchain = require("./tokens/xchain.json");
 const jfinTest = require("./tokens/jfin-testnet.json");
 const jfin = require("./tokens/jfin.json");
+const nova = require("./tokens/nova.json");
+const ethw = require("./tokens/ethw.json");
 const meta = require("./tokens/meta.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
@@ -38,8 +40,8 @@ module.exports = function buildList() {
     },
     tags: {},
     logoURI:
-      "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/mar-256.png",
-    keywords: ["mar", "default"],
+      "https://raw.githubusercontent.com/meofinance/tokenlist/main/src/images/meo.png",
+    keywords: ["meo", "default"],
     tokens: [
       ...bkc,
       ...bsc,
@@ -47,6 +49,8 @@ module.exports = function buildList() {
       ...meta,
       ...jfinTest,
       ...jfin,
+      ...nova,
+      ...ethw,
     ]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
